@@ -45,3 +45,19 @@ I am 39 years old. I work as a foreman of electrical fitters for repair and main
 		</p>
 	</header>
 ```
+
+---
+
+## **_Courses_**
+
+- HTML and CSS Tutorials on the w3schools (in progress).
+
+![My score](Screenshot-2022-12-23-at-00-33-24-My-learning-W3Schools.gif)
+
+## **_Languages_**
+
+- _Ukrainian_ - Native.
+
+- _Russian_ - professional level of proficiency.
+
+- _English_ - pre-intermediate.
