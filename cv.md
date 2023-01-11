@@ -48,6 +48,11 @@ I am 39 years old. I work as a foreman of electrical fitters for repair and main
 
 ---
 
+## **_Education_**
+
+- National Technical University of Ukraine «Igor Sikorsky Kyiv Polytechnic Institute»
+- Department of Electrical Power Systems and Networks
+
 ## **_Courses_**
 
 - HTML and CSS Tutorials on the w3schools (in progress).
