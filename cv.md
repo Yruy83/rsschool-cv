@@ -44,7 +44,7 @@ I am 39 years old. I work as a foreman of electrical fitters for repair and main
 
 ## **_Code exemple_**
 
-``` 
+``` html
 <!DOCTYPE html>
 <html lang="ru">
 <head>
